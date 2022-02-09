@@ -1,0 +1,40 @@
+{
+    "basics": {
+        "name": "jonathan",
+        "email": "jonathan16official@gmail.com",
+        "mobile no": "8825801647",
+        "degree": "BCA",
+        "Location":{
+            "address": "sholinganallur",
+            "postalcode": "600119",
+            "city": "chennai"
+        }
+    },    
+
+    "work": [
+         {
+             "company": "united facility and logistics Pvt Ltd",
+             "position": "senior executive",
+             "startdate": "2019-05-03",
+             "enddate": "2020-02-14"
+         }
+    ],
+
+    "education": [
+            {
+                "SSC": "Govt hr sec school",
+                "HSC": "Govt hr sec school",
+                "UG": "DB Jain college",
+                "location": "thoraipakkam",
+                "percentage": "50%"
+            }
+        ],
+
+    "languages": [
+        {
+            "language": "tamil and english",
+            "fluency": "tamil"
+        }
+    ]
+       
+}
